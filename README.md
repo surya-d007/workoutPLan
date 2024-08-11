@@ -12,3 +12,4 @@ This is a comprehensive Angular application designed to manage and track workout
 
 
 https://surya-d007.github.io/workoutPlanDist
+# Note : If you reload the page and it says 404 , click the link above again 
