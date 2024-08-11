@@ -10,3 +10,5 @@ This is a comprehensive Angular application designed to manage and track workout
   - Workout Minutes: Numeric input only, with a max length of 4 digits.
 - **Dashboard**: A visual dashboard that includes charts and graphs to track workout progress over time.
 
+
+https://surya-d007.github.io/workoutPlanDist
